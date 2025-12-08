@@ -27,3 +27,7 @@ Notas y desarrollo [*acá*](ae2.explorando.plataformas.empleo/README.md)
 # Sexta entrega: CV
 
 Puedes encontrarlo [**acá**](./ae2.cv/cv.pdf)
+
+# Séptima entrega: Crea tu Elevator Pitch con IA
+
+Notas y desarrollo [*acá*](./ae3.crea.tu.pitch/README.md)
