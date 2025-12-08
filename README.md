@@ -38,7 +38,8 @@ Notas y desarrollo [*acá*](./ae3.sar/README.md)
 
 ## Novena entrega: Evaluación de "Módulo laboral"
 
-
+Notas y desarrollo [*acá*](./ae.evaluacion.modulo/README.md)
 
 ## Decima entrega: Evaluación de "Portafolio"
 
+Notas y desarrollo [*acá*](./ae.evaluacion.portafolio/README.md)
