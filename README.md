@@ -23,3 +23,7 @@ Nuevamente, es el perfil LinkedIn tuneado.
 # Quinta entrega: Explorando plataformas de empleo en tecnología
 
 Notas y desarrollo [*acá*](ae2.explorando.plataformas.empleo/README.md)
+
+# Sexta entrega: CV
+
+Puedes encontrarlo [**acá**](./ae2.cv/cv.pdf)
