@@ -5,18 +5,23 @@
 ## Parte 1: Respuestas a las 5 Preguntas Clave
 
 ### 1. ¿Quién eres?
+
 Soy Carlos Pizarro Morales, desarrollador Full Stack con certificación Talento Digital Chile, especializado en JavaScript, Vue.js, Java y Spring Boot.
 
 ### 2. ¿Qué haces bien?
+
 Me destaco en desarrollo frontend con Vue.js y React, backend con Spring Boot y Node.js, y en refactorizar código para mejorar mantenibilidad y rendimiento. También tengo excelentes habilidades de comunicación y enseñanza, habiendo trabajado como tutor de bootcamp.
 
 ### 3. ¿Qué lograste o aprendiste?
+
 Colaboré en el desarrollo de una aplicación web para Tecprosalud que lleva servicios médicos a zonas remotas de Chile. Refactoricé código base, implementé nuevas características con Vue.js y Spring Boot, y trabajé con PostgreSQL en un proyecto que genera impacto social real.
 
 ### 4. ¿Qué buscas?
+
 Busco un rol como Desarrollador Full Stack Junior o Semi-Senior en un equipo colaborativo que valore el aprendizaje continuo, las buenas prácticas de desarrollo y donde pueda aportar mi experiencia técnica mientras sigo creciendo profesionalmente.
 
 ### 5. ¿Qué te diferencia?
+
 Mi trayectoria diversa me da habilidades únicas: capacidad de adaptación a nuevos entornos, facilidad para comunicar conceptos técnicos complejos, y una perspectiva optimista que me permite enfrentar desafíos con creatividad. Además, mi experiencia enseñando en bootcamps me ha dado empatía y capacidad de trabajo en equipo.
 
 ---
@@ -73,37 +78,42 @@ Mi trayectoria diversa me dio algo valioso: capacidad de comunicar, adaptarme r�
 
 📍 Santiago, Chile | 🌐 Abierto a remoto/híbrido
 
-#DesarrolladorFullStack #JavaScript #VueJS #SpringBoot #TalentoDigital #OpenToWork
+\#DesarrolladorFullStack #JavaScript #VueJS #SpringBoot #TalentoDigital #OpenToWork
 
 ---
 
 ## Notas sobre Uso del Pitch
 
-### Adaptaciones según contexto:
+### Adaptaciones según contexto
 
 **Para empresa financiera (ej. Bci):**
+
 - Enfatizar experiencia en banca (Scotiabank) y comprensión de procesos críticos
 - Destacar Spring Boot y PostgreSQL que son su stack principal
 - Mencionar atención al detalle y responsabilidad
 
 **Para startup (ej. NotCo):**
+
 - Enfatizar Vue.js y capacidad de moverme rápido
 - Destacar el impacto social del proyecto Tecprosalud (misión compartida)
 - Mencionar adaptabilidad y ownership
 
 **Para empresa grande (ej. Mercado Libre):**
+
 - Destacar experiencia con arquitectura escalable
 - Mencionar que fui tutor (mentalidad de mentoring que valoran)
 - Enfatizar trabajo en equipo ágil
 
-### Elementos clave a mantener siempre:
+### Elementos clave a mantener siempre
+
 1. Stack técnico claro: Vue.js, React, Spring Boot, JavaScript
 2. Proyecto Tecprosalud con impacto social
 3. Certificaciones Talento Digital (3)
 4. Trayectoria diversa como diferenciador positivo
 5. Objetivo claro: Full Stack Junior/Semi-Senior
 
-### Tips para la entrega oral:
+### Tips para la entrega oral
+
 - Sonreír naturalmente al hablar
 - Mantener contacto visual (presencial) o mirar a la cámara (virtual)
 - Usar pausas estratégicas después de mencionar Tecprosalud

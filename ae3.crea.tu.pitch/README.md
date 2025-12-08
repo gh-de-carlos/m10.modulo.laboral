@@ -37,6 +37,7 @@ Une tus respuestas en un párrafo breve (máx. 100 palabras). Usa esta estructur
 ---
 
 ## 🤖 Parte 3: Itera con Chat GPT (15 min)
+
 Utiliza la IA como coach de comunicación para mejorar tu discurso.
 
 Prompt sugerido:“Soy [tu nombre], [rol o stack]. Quiero mejorar mi elevator pitch profesional (máx. 60 segundos). Escucha mi versión y dame feedback sobre tono, claridad, ritmo y lenguaje corporal.”
@@ -49,12 +50,10 @@ Acciones:
 
 “Dale un tono más inspirador y seguro.”
 
-“simula que sos un reclutador y evalúa mi pitch.”
+“Simula que sos un reclutador y evalúa mi pitch.”
 3️⃣ Repite el ejercicio Grabándote con la cámara para observar gestos y energía.
 
 💡 Extra: Pedile a ChatGPT: “Convierte mi pitch en una versión para LinkedIn (texto o video corto).”
-
-
 
 ## 🎭 Parte 4: Presentación y feedback (opcional – 15 min)
 
@@ -71,7 +70,7 @@ Si te encuentras en clase o Zoom:
 
 ---
 
-## 🧠 Parte 5: Reflexión personal (entrega)ga)
+## 🧠 Parte 5: Reflexión personal (entrega)
 
 Escribe un breve párrafo (5 líneas):
 

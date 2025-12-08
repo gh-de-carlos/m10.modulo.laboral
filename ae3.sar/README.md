@@ -127,6 +127,7 @@ Esta experiencia refleja competencias técnicas clave (arquitectura de sistemas,
 > **Análisis de tu historia SAR:**
 >
 > **Fortalezas:**
+>
 > - ✅ Estructura SAR clara y completa
 > - ✅ Métricas concretas (15% a 1%, 8s a 2s) que demuestran impacto
 > - ✅ Tecnologías específicas mencionadas (Vue.js, Resilience4j, Redis)
@@ -134,6 +135,7 @@ Esta experiencia refleja competencias técnicas clave (arquitectura de sistemas,
 > - ✅ Contexto social relevante (servicios médicos en zonas remotas)
 >
 > **Áreas de mejora:**
+>
 > - La sección de Situación es un poco larga. Podrías acortar los detalles técnicos iniciales.
 > - En Acción, mencionar "circuit breakers" y "Resilience4j" puede ser muy técnico para algunos reclutadores. Considera simplificar o agregar contexto breve.
 > - El Resultado podría enfatizar más el impacto en el negocio/usuarios (médicos pudiendo atender más pacientes) además de las métricas técnicas.
@@ -167,6 +169,7 @@ Esta experiencia refleja competencias técnicas clave (arquitectura de sistemas,
 **Feedback de la práctica oral (IA):**
 
 > Tu respuesta demuestra profundidad técnica equilibrada con pensamiento de producto. Tres fortalezas:
+>
 > 1. Diste números específicos (5 fallos, 50%, 30s, 60s) que muestran rigurosidad
 > 2. Explicaste el "por qué" del negocio, no solo el "cómo" técnico
 > 3. Mencionaste iteración y ajuste basado en datos reales
@@ -220,6 +223,7 @@ La práctica con IA me hizo consciente de ajustar el nivel técnico según mi au
 | **Fintech** | Manejo de sistemas críticos, resilencia, timeouts, circuit breakers |
 
 **Elementos a mantener siempre:**
+
 - Métricas concretas (15% → 1%, 8s → 2s)
 - Tecnologías específicas sin abrumar
 - Impacto en usuarios/negocio, no solo logro técnico
