@@ -16,4 +16,10 @@ Consiste en un primer intento de entender cómo debo responder a las entrevistas
 
 Las respuestas escritas solicitadas puedes encontrarlas [acá](./ae1.simulando.entrevista.laboral/README.md)
 
-# Cuarta entrega: 
+# Cuarta entrega: Optimiza tu perfil paso a paso
+
+Nuevamente, es el perfil LinkedIn tuneado.
+
+# Quinta entrega: Explorando plataformas de empleo en tecnología
+
+Notas y desarrollo [*acá*](ae2.explorando.plataformas.empleo/README.md)
