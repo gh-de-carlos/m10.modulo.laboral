@@ -1,6 +1,6 @@
 # Notas Personales - Preparación para Entrevistas
 
-## 📚 Comprensión del Material
+## Comprensión del Material
 
 ### Conceptos Clave Aprendidos
 
@@ -27,58 +27,58 @@
 
 ---
 
-## 💡 Sugerencias y Consejos Personales
+## Sugerencias y Consejos Personales
 
 ### Antes de la Entrevista
 
-✅ **Investiga profundamente la empresa**
+**Investiga profundamente la empresa**
 - Lee su blog técnico, revisa sus repos en GitHub si son open source
 - Identifica qué stack usan y prepara ejemplos con tecnologías similares
 - Busca entrevistas o artículos de sus developers en Medium, YouTube, etc.
 
-✅ **Prepara tu "arsenal de historias"**
+**Prepara tu "arsenal de historias"**
 - 3-4 proyectos que domines completamente
 - 2-3 desafíos técnicos superados con aprendizajes claros
 - 1-2 ejemplos de trabajo en equipo o liderazgo técnico
 
-✅ **Practica en voz alta**
+**Practica en voz alta**
 - No leas, habla naturalmente
 - Grábate y escucha: detecta muletillas ("eh", "o sea", "básicamente")
 - Cronometra: respuestas de 60-90 segundos son ideales
 
 ### Durante la Entrevista
 
-✅ **Escucha activamente**
+**Escucha activamente**
 - Parafrasea la pregunta si no está clara: "Entiendo que me preguntas sobre..."
 - Toma 2-3 segundos para pensar antes de responder
 - Está bien decir "no lo sé, pero así lo investigaría..."
 
-✅ **Sé específico, no genérico**
-- ❌ "Soy una persona proactiva"
-- ✅ "En mi último proyecto, noté que las pruebas E2E eran lentas. Propuse migrar de Selenium a Playwright, documenté el proceso y redujimos el tiempo de CI de 15 a 7 minutos"
+**Sé específico, no genérico**
+- **Mal:** "Soy una persona proactiva"
+- **Bien:** "En mi último proyecto, noté que las pruebas E2E eran lentas. Propuse migrar de Selenium a Playwright, documenté el proceso y redujimos el tiempo de CI de 15 a 7 minutos"
 
-✅ **Piensa en voz alta (entrevistas técnicas)**
+**Piensa en voz alta (entrevistas técnicas)**
 - Explica tu razonamiento mientras codeas
 - Menciona trade-offs: "Esta solución es O(n²) pero optimizable a O(n) con un HashMap"
 - Si te atascas, verbaliza: "Creo que puedo resolver esto con recursión, déjame intentar..."
 
 ### Después de la Entrevista
 
-✅ **Autoevaluación inmediata**
+**Autoevaluación inmediata**
 - Anota preguntas que no esperabas
 - Identifica respuestas mejorables
 - Revisa conceptos técnicos que no dominaste
 
-✅ **Follow-up profesional**
+**Follow-up profesional**
 - Email de agradecimiento en 24h (breve, específico)
 - Menciona algo concreto de la conversación
 - Reafirma interés sin ser insistente
 
 ---
 
-## 🎯 Las Tres Preguntas para la Grabación
+## Las Tres Preguntas para la Grabación
 
-### 1️⃣ Pregunta Personal: "Háblame de ti y por qué te interesa este puesto"
+### 1. Pregunta Personal: "Háblame de ti y por qué te interesa este puesto"
 
 **Respuesta modelo (90 segundos):**
 
@@ -96,7 +96,7 @@
 
 ---
 
-### 2️⃣ Pregunta Técnica: "Explica cómo optimizarías el rendimiento de una aplicación web lenta"
+### 2. Pregunta Técnica: "Explica cómo optimizarías el rendimiento de una aplicación web lenta"
 
 **Respuesta modelo (120 segundos):**
 
@@ -138,7 +138,7 @@
 
 ---
 
-### 3️⃣ Pregunta Conductual (STAR): "Cuéntame de una vez que tuviste que resolver un conflicto técnico en equipo"
+### 3. Pregunta Conductual (STAR): "Cuéntame de una vez que tuviste que resolver un conflicto técnico en equipo"
 
 **Respuesta modelo (90 segundos):**
 
@@ -163,7 +163,7 @@
 
 ---
 
-## 🎬 Tips para la Grabación
+## Tips para la Grabación
 
 ### Configuración Técnica
 - **Luz natural** de frente o ring light
@@ -198,7 +198,7 @@
 
 ---
 
-## ✅ Checklist Pre-Grabación
+## Checklist Pre-Grabación
 
 - [X] He escrito las tres preguntas que responderé
 - [X] Practiqué mis respuestas en voz alta (mínimo 2 veces)
@@ -213,7 +213,7 @@
 
 ---
 
-## 🚀 Reflexión Final
+## Reflexión Final
 
 La mejor preparación combina:
 1. **Conocimiento técnico sólido** (saber hacer el trabajo)
